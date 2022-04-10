@@ -1,5 +1,4 @@
-
-function App() {
+function Counter() {
   return (
     <div className="App">
       <p>Welcome To Counter App</p>
@@ -7,4 +6,4 @@ function App() {
   );
 }
 
-export default App;
+export default Counter;
